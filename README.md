@@ -1,6 +1,6 @@
-#Hangman
+# Hangman
 
-##Instructions
+## Instructions
 
 1. Use `ruby hangman.rb` to run
 2. To save or load the game at any stage, please type `save` or `load`
